@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Intro component with sign up form](https://github.com/dayronfurcain/sign-up-form)
+- Live Site URL: [Intro component with sign up form](https://charming-zabaione-cc5286.netlify.app)
 
 ## My process
 
